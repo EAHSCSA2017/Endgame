@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ fighter()
+comment1.params=health\ damage\ crit\ stamina\ level
+comment1.target=void\ fighter(int,\ int,\ double,\ int,\ int)
+comment10.params=
+comment10.target=int\ getLevel()
+comment11.params=level
+comment11.target=void\ setLevel(int)
+comment2.params=
+comment2.target=int\ getHealth()
+comment3.params=health
+comment3.target=void\ setHealth(int)
+comment4.params=
+comment4.target=int\ getDamage()
+comment5.params=damage
+comment5.target=void\ setDamage(int)
+comment6.params=
+comment6.target=double\ getCrit()
+comment7.params=crit
+comment7.target=void\ setCrit(double)
+comment8.params=
+comment8.target=int\ getStamina()
+comment9.params=stamina
+comment9.target=void\ setStamina(int)
+numComments=12

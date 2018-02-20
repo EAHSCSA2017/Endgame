@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ runTown()
+comment1.params=townArrayList\ placeNumber\ choice
+comment1.target=int\ movement(java.util.ArrayList,\ int,\ java.lang.String)
+numComments=2

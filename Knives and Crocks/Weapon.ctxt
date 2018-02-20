@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=name\ price\ description\ range\ dmg
+comment0.target=Weapon(java.lang.String,\ int,\ java.lang.String,\ int,\ int)
+comment1.params=
+comment1.target=int\ getRange()
+comment2.params=
+comment2.target=int\ getDMG()
+comment3.params=r
+comment3.target=void\ setRange(int)
+comment4.params=d
+comment4.target=void\ setDMG(int)
+comment5.params=
+comment5.target=java.util.ArrayList\ makeWeapons()
+numComments=6
